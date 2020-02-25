@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-11 09:03:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Bogo 3.2.1\n"
+"Language: en_US\n"
+"Project-Id-Version: WordPress 5.1.1\n"
+
+msgctxt "blogname"
+msgid "blogname"
+msgstr "xTECH"
+
+msgctxt "blogdescription"
+msgid "blogdescription"
+msgstr "Just another WordPress site"
+
+msgctxt "category"
+msgid "category:20"
+msgstr "未分類"
+
+msgctxt "category"
+msgid "category:13"
+msgstr "Lifestyle"
+
+msgctxt "category"
+msgid "category:11"
+msgstr "Trend"
+
+msgctxt "category"
+msgid "category:12"
+msgstr "Work"
+
+msgctxt "category"
+msgid "category:14"
+msgstr "xTECH"
+
+msgctxt "keyword"
+msgid "keyword:8"
+msgstr "AccerolatorPG"
+
+msgctxt "keyword"
+msgid "keyword:2"
+msgstr "TestKeyword"
+
+msgctxt "keyword"
+msgid "keyword:9"
+msgstr "CollaborationExperience"
+
+msgctxt "keyword"
+msgid "keyword:10"
+msgstr "実証実験"
+
+msgctxt "keyword"
+msgid "keyword:7"
+msgstr "成長ストーリー"
+
+msgctxt "features"
+msgid "features:6"
+msgstr "おすすめ記事表示"
+
+msgctxt "features"
+msgid "features:5"
+msgstr "スライダー表示"
+
+msgctxt "news-category"
+msgid "news-category:3"
+msgstr "EVENT"
+
+msgctxt "news-category"
+msgid "news-category:4"
+msgstr "NEWS"

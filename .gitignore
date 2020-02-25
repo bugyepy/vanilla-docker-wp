@@ -1,0 +1,8 @@
+# default themes
+/themes/twenty*/
+
+# DB
+/db_data/
+
+# SQL
+/localhost.sql/
